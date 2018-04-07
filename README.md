@@ -12,3 +12,5 @@ Microsoft Azure Cognitive Services -- Speaker Recognition API
 Special thanks to - Rogin, Deep, Akshay!!! 
 
 #hackdotslash
+
+   
