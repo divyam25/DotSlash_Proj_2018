@@ -7,8 +7,8 @@ What we can do is come up with a speech recognition system which can immediately
 
 The Speaker recognition API makes use of state of the art Machine-Learning algorithms to train on voicing datasets and ultimately distinguish among speakers for their testing voice datasets.
 
-Technology Stack -- Python || <br/>
-Microsoft Azure Cognitive Services -- Speaker Recognition API || <br/>
+Technology Stack -- Python  <br/>
+Microsoft Azure Cognitive Services -- Speaker Recognition API  <br/>
 Special thanks to - Rogin, Deep, Akshay!!! <br/>
 
 #hackdotslash
